@@ -1,0 +1,9 @@
+li a {
+  display: block;
+  padding: 10px 100px;
+  text-decoration: none;
+  text-align: center;
+}
+li a:hover {
+  background-color: #111;
+  }
